@@ -1,0 +1,21 @@
+{
+  "name": "AprCrypto",
+  "authors": [
+    "Heri Hehe Setiawan <hello@kedaipixel.com>"
+  ],
+  "description": "",
+  "main": "[aes.js, pbkdf2.js]",
+  "keywords": [
+    "aprcrypto"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
