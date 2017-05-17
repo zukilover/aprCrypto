@@ -4,7 +4,7 @@
     "Heri Hehe Setiawan <hello@kedaipixel.com>"
   ],
   "description": "",
-  "main": ["aes.js", "pbkdf2.js"],
+  "main": "apr-crypto.js",
   "keywords": [
     "aprcrypto"
   ],
