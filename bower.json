@@ -1,7 +1,7 @@
 {
   "name": "apr-crypto",
   "authors": [
-    "Heri Hehe Setiawan <hello@kedaipixel.com>"
+    "Jeff Mott"
   ],
   "description": "",
   "main": ["apr-crypto.js"],
